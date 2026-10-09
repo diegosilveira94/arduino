@@ -9,7 +9,7 @@ Projetos da disciplina de Sistemas Embarcados com Arduino Uno R3.
 | Pasta | Descrição |
 | --- | --- |
 | `giroflex/` | Giroflex com 4 LEDs e sirene no buzzer |
-| `sensor_re/` | Sensor de ré com ultrassônico, LED RGB e bip que acelera conforme o obstáculo se aproxima |
+| `sensorDeRe/` | Sensor de ré com ultrassônico, LED RGB e bip que acelera conforme o obstáculo se aproxima |
 
 ## Como rodar
 
