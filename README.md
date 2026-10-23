@@ -9,6 +9,8 @@ Projetos da disciplina de Sistemas Embarcados com Arduino Uno R3.
 | Pasta | Descrição |
 | --- | --- |
 | `giroflex/` | Giroflex com 4 LEDs e sirene no buzzer |
+| `sensorDeRe/` | Sensor ultrassônico de ré com indicador RGB e buzzer que acelera os bipes conforme o obstáculo se aproxima |
+| `ventilador/` | Servo com movimento oscilante para simular um ventilador; entradas analógicas controlam o ângulo e a velocidade |
 
 ## Como rodar
 
